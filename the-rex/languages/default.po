@@ -1,0 +1,3082 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Default\n"
+"POT-Creation-Date: 2015-10-27 15:17+0700\n"
+"PO-Revision-Date: 2015-10-27 15:18+0700\n"
+"Last-Translator: hungvu <minhhung141210@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e;_x;_n;esc_attr__\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../404.php:16
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:23
+msgid ""
+"Oops! The page you were looking for was not found. Perhaps searching can "
+"help."
+msgstr ""
+
+#: ../404.php:35
+msgid "Back to Homepage"
+msgstr ""
+
+#: ../archive.php:55
+msgid "Image "
+msgstr ""
+
+#: ../archive.php:57
+msgid "Gallery "
+msgstr ""
+
+#: ../archive.php:59
+msgid "Video "
+msgstr ""
+
+#: ../archive.php:61
+msgid "Audio "
+msgstr ""
+
+#: ../archive.php:65
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:67
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:67
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:69
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:69
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:71
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../archive.php:73
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:293 ../author.php:237 ../blog.php:235 ../category.php:278
+#: ../index.php:224 ../search.php:231
+msgid "No post to display"
+msgstr ""
+
+#: ../blog.php:25
+msgid "Blog"
+msgstr ""
+
+#: ../comments.php:20
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:61 ../comments.php:76 ../comments.php:92
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:65
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:67 ../comments.php:81
+msgid "Name*"
+msgstr ""
+
+#: ../comments.php:68 ../comments.php:82
+msgid "Email*"
+msgstr ""
+
+#: ../comments.php:70 ../comments.php:85
+msgid "Send"
+msgstr ""
+
+#: ../comments.php:72 ../comments.php:87
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:333
+msgid "Message"
+msgstr ""
+
+#: ../comments.php:83 ../inc/libs/bk_core.php:457
+msgid "Website"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:8
+msgid "FullWidth Section"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:8
+msgid "Content Section"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:13
+msgid "BK Feature Module - 1"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:16
+#: ../framework/page-builder/controller/bk_pd_cfg.php:130
+#: ../framework/page-builder/controller/bk_pd_cfg.php:185
+#: ../framework/page-builder/controller/bk_pd_cfg.php:240
+#: ../framework/page-builder/controller/bk_pd_cfg.php:295
+#: ../framework/page-builder/controller/bk_pd_cfg.php:387
+#: ../framework/page-builder/controller/bk_pd_cfg.php:448
+#: ../framework/page-builder/controller/bk_pd_cfg.php:499
+#: ../framework/page-builder/controller/bk_pd_cfg.php:522
+#: ../framework/page-builder/controller/bk_pd_cfg.php:646
+#: ../framework/page-builder/controller/bk_pd_cfg.php:701
+#: ../framework/page-builder/controller/bk_pd_cfg.php:752
+#: ../framework/page-builder/controller/bk_pd_cfg.php:801
+#: ../framework/page-builder/controller/bk_pd_cfg.php:846
+#: ../framework/page-builder/controller/bk_pd_cfg.php:907
+#: ../framework/page-builder/controller/bk_pd_cfg.php:968
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1029
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1052
+msgid "Title"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:17
+#: ../framework/page-builder/controller/bk_pd_cfg.php:131
+#: ../framework/page-builder/controller/bk_pd_cfg.php:186
+#: ../framework/page-builder/controller/bk_pd_cfg.php:241
+#: ../framework/page-builder/controller/bk_pd_cfg.php:296
+#: ../framework/page-builder/controller/bk_pd_cfg.php:388
+#: ../framework/page-builder/controller/bk_pd_cfg.php:449
+#: ../framework/page-builder/controller/bk_pd_cfg.php:647
+#: ../framework/page-builder/controller/bk_pd_cfg.php:702
+#: ../framework/page-builder/controller/bk_pd_cfg.php:753
+#: ../framework/page-builder/controller/bk_pd_cfg.php:802
+#: ../framework/page-builder/controller/bk_pd_cfg.php:847
+#: ../framework/page-builder/controller/bk_pd_cfg.php:908
+#: ../framework/page-builder/controller/bk_pd_cfg.php:969
+msgid "The Module title"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:22
+#: ../framework/page-builder/controller/bk_pd_cfg.php:136
+#: ../framework/page-builder/controller/bk_pd_cfg.php:246
+#: ../framework/page-builder/controller/bk_pd_cfg.php:301
+#: ../framework/page-builder/controller/bk_pd_cfg.php:393
+#: ../framework/page-builder/controller/bk_pd_cfg.php:454
+#: ../framework/page-builder/controller/bk_pd_cfg.php:505
+#: ../framework/page-builder/controller/bk_pd_cfg.php:528
+#: ../framework/page-builder/controller/bk_pd_cfg.php:652
+#: ../framework/page-builder/controller/bk_pd_cfg.php:707
+#: ../framework/page-builder/controller/bk_pd_cfg.php:758
+#: ../framework/page-builder/controller/bk_pd_cfg.php:807
+#: ../framework/page-builder/controller/bk_pd_cfg.php:852
+#: ../framework/page-builder/controller/bk_pd_cfg.php:913
+#: ../framework/page-builder/controller/bk_pd_cfg.php:974
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1035
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1058
+msgid "Sub Title"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:23
+#: ../framework/page-builder/controller/bk_pd_cfg.php:137
+#: ../framework/page-builder/controller/bk_pd_cfg.php:247
+#: ../framework/page-builder/controller/bk_pd_cfg.php:302
+#: ../framework/page-builder/controller/bk_pd_cfg.php:394
+#: ../framework/page-builder/controller/bk_pd_cfg.php:455
+#: ../framework/page-builder/controller/bk_pd_cfg.php:506
+#: ../framework/page-builder/controller/bk_pd_cfg.php:529
+#: ../framework/page-builder/controller/bk_pd_cfg.php:653
+#: ../framework/page-builder/controller/bk_pd_cfg.php:708
+#: ../framework/page-builder/controller/bk_pd_cfg.php:759
+#: ../framework/page-builder/controller/bk_pd_cfg.php:808
+#: ../framework/page-builder/controller/bk_pd_cfg.php:853
+#: ../framework/page-builder/controller/bk_pd_cfg.php:914
+#: ../framework/page-builder/controller/bk_pd_cfg.php:975
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1036
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1059
+msgid "The module subtitle"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:28
+#: ../framework/page-builder/controller/bk_pd_cfg.php:168
+#: ../framework/page-builder/controller/bk_pd_cfg.php:344
+#: ../framework/page-builder/controller/bk_pd_cfg.php:399
+#: ../framework/page-builder/controller/bk_pd_cfg.php:668
+#: ../framework/page-builder/controller/bk_pd_cfg.php:813
+#: ../framework/page-builder/controller/bk_pd_cfg.php:858
+#: ../framework/page-builder/controller/bk_pd_cfg.php:919
+#: ../framework/page-builder/controller/bk_pd_cfg.php:980
+msgid "Number of Posts"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:29
+#: ../framework/page-builder/controller/bk_pd_cfg.php:88
+#: ../framework/page-builder/controller/bk_pd_cfg.php:169
+#: ../framework/page-builder/controller/bk_pd_cfg.php:345
+#: ../framework/page-builder/controller/bk_pd_cfg.php:669
+msgid "Enter the number of posts"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:34
+#: ../framework/page-builder/controller/bk_pd_cfg.php:93
+#: ../framework/page-builder/controller/bk_pd_cfg.php:142
+#: ../framework/page-builder/controller/bk_pd_cfg.php:197
+#: ../framework/page-builder/controller/bk_pd_cfg.php:258
+#: ../framework/page-builder/controller/bk_pd_cfg.php:307
+#: ../framework/page-builder/controller/bk_pd_cfg.php:360
+#: ../framework/page-builder/controller/bk_pd_cfg.php:405
+#: ../framework/page-builder/controller/bk_pd_cfg.php:472
+#: ../framework/page-builder/controller/bk_pd_cfg.php:674
+#: ../framework/page-builder/controller/bk_pd_cfg.php:725
+#: ../framework/page-builder/controller/bk_pd_cfg.php:764
+#: ../framework/page-builder/controller/bk_pd_cfg.php:819
+#: ../framework/page-builder/controller/bk_pd_cfg.php:864
+#: ../framework/page-builder/controller/bk_pd_cfg.php:925
+#: ../framework/page-builder/controller/bk_pd_cfg.php:986
+msgid "Offset"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:35
+#: ../framework/page-builder/controller/bk_pd_cfg.php:94
+#: ../framework/page-builder/controller/bk_pd_cfg.php:143
+#: ../framework/page-builder/controller/bk_pd_cfg.php:198
+#: ../framework/page-builder/controller/bk_pd_cfg.php:259
+#: ../framework/page-builder/controller/bk_pd_cfg.php:308
+#: ../framework/page-builder/controller/bk_pd_cfg.php:361
+#: ../framework/page-builder/controller/bk_pd_cfg.php:406
+#: ../framework/page-builder/controller/bk_pd_cfg.php:473
+#: ../framework/page-builder/controller/bk_pd_cfg.php:675
+#: ../framework/page-builder/controller/bk_pd_cfg.php:726
+#: ../framework/page-builder/controller/bk_pd_cfg.php:765
+#: ../framework/page-builder/controller/bk_pd_cfg.php:820
+#: ../framework/page-builder/controller/bk_pd_cfg.php:865
+#: ../framework/page-builder/controller/bk_pd_cfg.php:926
+#: ../framework/page-builder/controller/bk_pd_cfg.php:987
+msgid "Enter the offset number"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:40
+#: ../framework/page-builder/controller/bk_pd_cfg.php:99
+#: ../framework/page-builder/controller/bk_pd_cfg.php:148
+#: ../framework/page-builder/controller/bk_pd_cfg.php:203
+#: ../framework/page-builder/controller/bk_pd_cfg.php:264
+#: ../framework/page-builder/controller/bk_pd_cfg.php:313
+#: ../framework/page-builder/controller/bk_pd_cfg.php:366
+#: ../framework/page-builder/controller/bk_pd_cfg.php:680
+#: ../framework/page-builder/controller/bk_pd_cfg.php:770
+#: ../framework/page-builder/controller/bk_pd_cfg.php:825
+msgid "Order"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:41
+msgid ""
+"Display random posts or latest posts from categories - (IMPORTANT) IF ORDER "
+"= Random, Ajax Load More Button (If have) will be disabled"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:45
+#: ../framework/page-builder/controller/bk_pd_cfg.php:104
+#: ../framework/page-builder/controller/bk_pd_cfg.php:153
+#: ../framework/page-builder/controller/bk_pd_cfg.php:208
+#: ../framework/page-builder/controller/bk_pd_cfg.php:269
+#: ../framework/page-builder/controller/bk_pd_cfg.php:318
+#: ../framework/page-builder/controller/bk_pd_cfg.php:371
+#: ../framework/page-builder/controller/bk_pd_cfg.php:685
+#: ../framework/page-builder/controller/bk_pd_cfg.php:775
+#: ../framework/page-builder/controller/bk_pd_cfg.php:830
+msgid "Latest"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:46
+#: ../framework/page-builder/controller/bk_pd_cfg.php:105
+#: ../framework/page-builder/controller/bk_pd_cfg.php:154
+#: ../framework/page-builder/controller/bk_pd_cfg.php:209
+#: ../framework/page-builder/controller/bk_pd_cfg.php:270
+#: ../framework/page-builder/controller/bk_pd_cfg.php:319
+#: ../framework/page-builder/controller/bk_pd_cfg.php:372
+#: ../framework/page-builder/controller/bk_pd_cfg.php:686
+#: ../framework/page-builder/controller/bk_pd_cfg.php:776
+#: ../framework/page-builder/controller/bk_pd_cfg.php:831
+msgid "Random"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:50
+#: ../framework/page-builder/controller/bk_pd_cfg.php:158
+#: ../framework/page-builder/controller/bk_pd_cfg.php:350
+#: ../framework/page-builder/controller/bk_pd_cfg.php:658
+msgid "Display featured posts in slider"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:51
+#: ../framework/page-builder/controller/bk_pd_cfg.php:72
+#: ../framework/page-builder/controller/bk_pd_cfg.php:159
+#: ../framework/page-builder/controller/bk_pd_cfg.php:351
+#: ../framework/page-builder/controller/bk_pd_cfg.php:659
+msgid "Yes: Display featured posts"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:55
+#: ../framework/page-builder/controller/bk_pd_cfg.php:76
+#: ../framework/page-builder/controller/bk_pd_cfg.php:163
+#: ../framework/page-builder/controller/bk_pd_cfg.php:355
+#: ../framework/page-builder/controller/bk_pd_cfg.php:663
+msgid "Yes"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:56
+#: ../framework/page-builder/controller/bk_pd_cfg.php:77
+#: ../framework/page-builder/controller/bk_pd_cfg.php:164
+#: ../framework/page-builder/controller/bk_pd_cfg.php:356
+#: ../framework/page-builder/controller/bk_pd_cfg.php:664
+msgid "No"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:60
+#: ../framework/page-builder/controller/bk_pd_cfg.php:119
+#: ../framework/page-builder/controller/bk_pd_cfg.php:174
+#: ../framework/page-builder/controller/bk_pd_cfg.php:229
+#: ../framework/page-builder/controller/bk_pd_cfg.php:284
+#: ../framework/page-builder/controller/bk_pd_cfg.php:333
+#: ../framework/page-builder/controller/bk_pd_cfg.php:376
+#: ../framework/page-builder/controller/bk_pd_cfg.php:437
+#: ../framework/page-builder/controller/bk_pd_cfg.php:488
+#: ../framework/page-builder/controller/bk_pd_cfg.php:690
+#: ../framework/page-builder/controller/bk_pd_cfg.php:741
+#: ../framework/page-builder/controller/bk_pd_cfg.php:790
+#: ../framework/page-builder/controller/bk_pd_cfg.php:835
+#: ../framework/page-builder/controller/bk_pd_cfg.php:896
+#: ../framework/page-builder/controller/bk_pd_cfg.php:957
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1018
+msgid "Category"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:61
+msgid "Choose a post category to be shown up"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:68
+msgid "BK Feature Module - 2"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:71
+msgid "Display featured posts"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:81
+#: ../framework/page-builder/controller/bk_pd_cfg.php:213
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:82
+msgid "Choose Background Color"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:87
+#: ../framework/page-builder/controller/bk_pd_cfg.php:191
+#: ../framework/page-builder/controller/bk_pd_cfg.php:460
+#: ../framework/page-builder/controller/bk_pd_cfg.php:713
+#: ../library/theme-option.php:1190
+msgid "Number of posts"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:100
+#: ../framework/page-builder/controller/bk_pd_cfg.php:149
+#: ../framework/page-builder/controller/bk_pd_cfg.php:204
+#: ../framework/page-builder/controller/bk_pd_cfg.php:265
+#: ../framework/page-builder/controller/bk_pd_cfg.php:314
+#: ../framework/page-builder/controller/bk_pd_cfg.php:367
+#: ../framework/page-builder/controller/bk_pd_cfg.php:681
+#: ../framework/page-builder/controller/bk_pd_cfg.php:771
+#: ../framework/page-builder/controller/bk_pd_cfg.php:826
+msgid ""
+"Display random posts or latest posts from categories - (IMPORTANT) IF ORDER "
+"= Random, Ajax Load (If have) will be disabled"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:109
+#: ../framework/page-builder/controller/bk_pd_cfg.php:219
+#: ../framework/page-builder/controller/bk_pd_cfg.php:274
+#: ../framework/page-builder/controller/bk_pd_cfg.php:323
+#: ../framework/page-builder/controller/bk_pd_cfg.php:427
+#: ../framework/page-builder/controller/bk_pd_cfg.php:780
+#: ../framework/page-builder/controller/bk_pd_cfg.php:886
+#: ../framework/page-builder/controller/bk_pd_cfg.php:947
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1008
+msgid "Post Format Icon"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:110
+#: ../framework/page-builder/controller/bk_pd_cfg.php:220
+#: ../framework/page-builder/controller/bk_pd_cfg.php:275
+#: ../framework/page-builder/controller/bk_pd_cfg.php:324
+#: ../framework/page-builder/controller/bk_pd_cfg.php:428
+#: ../framework/page-builder/controller/bk_pd_cfg.php:781
+#: ../framework/page-builder/controller/bk_pd_cfg.php:887
+#: ../framework/page-builder/controller/bk_pd_cfg.php:948
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1009
+msgid ""
+"Show/hide Post Format Icon (Just for Video, Audio and Gallery Post Format)"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:114
+#: ../framework/page-builder/controller/bk_pd_cfg.php:224
+#: ../framework/page-builder/controller/bk_pd_cfg.php:279
+#: ../framework/page-builder/controller/bk_pd_cfg.php:328
+#: ../framework/page-builder/controller/bk_pd_cfg.php:432
+#: ../framework/page-builder/controller/bk_pd_cfg.php:785
+#: ../framework/page-builder/controller/bk_pd_cfg.php:891
+#: ../framework/page-builder/controller/bk_pd_cfg.php:952
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1013
+#: ../framework/widgets/widget_twitter.php:131 ../library/theme-option.php:743
+#: ../library/theme-option.php:802 ../library/theme-option.php:862
+#: ../library/theme-option.php:922 ../library/theme-option.php:981
+msgid "Show"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:115
+#: ../framework/page-builder/controller/bk_pd_cfg.php:225
+#: ../framework/page-builder/controller/bk_pd_cfg.php:280
+#: ../framework/page-builder/controller/bk_pd_cfg.php:329
+#: ../framework/page-builder/controller/bk_pd_cfg.php:433
+#: ../framework/page-builder/controller/bk_pd_cfg.php:786
+#: ../framework/page-builder/controller/bk_pd_cfg.php:892
+#: ../framework/page-builder/controller/bk_pd_cfg.php:953
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1014
+#: ../library/theme-option.php:744 ../library/theme-option.php:803
+#: ../library/theme-option.php:863 ../library/theme-option.php:923
+#: ../library/theme-option.php:982
+msgid "Hide"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:120
+#: ../framework/page-builder/controller/bk_pd_cfg.php:175
+#: ../framework/page-builder/controller/bk_pd_cfg.php:230
+#: ../framework/page-builder/controller/bk_pd_cfg.php:285
+#: ../framework/page-builder/controller/bk_pd_cfg.php:334
+#: ../framework/page-builder/controller/bk_pd_cfg.php:377
+#: ../framework/page-builder/controller/bk_pd_cfg.php:438
+#: ../framework/page-builder/controller/bk_pd_cfg.php:489
+#: ../framework/page-builder/controller/bk_pd_cfg.php:691
+#: ../framework/page-builder/controller/bk_pd_cfg.php:742
+#: ../framework/page-builder/controller/bk_pd_cfg.php:791
+#: ../framework/page-builder/controller/bk_pd_cfg.php:836
+#: ../framework/page-builder/controller/bk_pd_cfg.php:897
+#: ../framework/page-builder/controller/bk_pd_cfg.php:958
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1019
+msgid ""
+"Please use the CTRL key (PC) or COMMAND key (Mac) to select multiple "
+"categories."
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:127
+msgid "BK Boxed Slider"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:182
+msgid "BK Carousel"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:192
+#: ../framework/page-builder/controller/bk_pd_cfg.php:461
+#: ../framework/page-builder/controller/bk_pd_cfg.php:714
+msgid "Enter the number of posts ( Recommend at least 4 posts "
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:214
+msgid "Choose Background Color (do not choose a white color)"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:237
+msgid "BK Row"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:252
+msgid "Number of Rows"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:253
+msgid "Enter the number of post rows"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:292
+msgid "BK Hero"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:341
+msgid "BK Fullwidth Slider"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:384
+#: ../framework/page-builder/controller/bk_pd_cfg.php:843
+msgid "BK Masonry"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:400
+#: ../framework/page-builder/controller/bk_pd_cfg.php:814
+#: ../framework/page-builder/controller/bk_pd_cfg.php:859
+#: ../framework/page-builder/controller/bk_pd_cfg.php:920
+#: ../framework/page-builder/controller/bk_pd_cfg.php:981
+msgid "Enter the number of posts will be displayed"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:411
+#: ../framework/page-builder/controller/bk_pd_cfg.php:466
+#: ../framework/page-builder/controller/bk_pd_cfg.php:719
+#: ../framework/page-builder/controller/bk_pd_cfg.php:870
+#: ../framework/page-builder/controller/bk_pd_cfg.php:931
+#: ../framework/page-builder/controller/bk_pd_cfg.php:992
+msgid "Ajax post"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:412
+#: ../framework/page-builder/controller/bk_pd_cfg.php:467
+#: ../framework/page-builder/controller/bk_pd_cfg.php:720
+#: ../framework/page-builder/controller/bk_pd_cfg.php:871
+#: ../framework/page-builder/controller/bk_pd_cfg.php:932
+#: ../framework/page-builder/controller/bk_pd_cfg.php:993
+msgid "Enter the number of posts will be displayed when click ajax load button"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:417
+#: ../framework/page-builder/controller/bk_pd_cfg.php:478
+#: ../framework/page-builder/controller/bk_pd_cfg.php:731
+#: ../framework/page-builder/controller/bk_pd_cfg.php:876
+#: ../framework/page-builder/controller/bk_pd_cfg.php:937
+#: ../framework/page-builder/controller/bk_pd_cfg.php:998
+msgid "Ajax Button"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:418
+#: ../framework/page-builder/controller/bk_pd_cfg.php:479
+#: ../framework/page-builder/controller/bk_pd_cfg.php:732
+#: ../framework/page-builder/controller/bk_pd_cfg.php:877
+#: ../framework/page-builder/controller/bk_pd_cfg.php:938
+#: ../framework/page-builder/controller/bk_pd_cfg.php:999
+msgid "Enable/Disable Ajax Button"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:422
+#: ../framework/page-builder/controller/bk_pd_cfg.php:483
+#: ../framework/page-builder/controller/bk_pd_cfg.php:736
+#: ../framework/page-builder/controller/bk_pd_cfg.php:881
+#: ../framework/page-builder/controller/bk_pd_cfg.php:942
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1003
+#: ../library/theme-option.php:705 ../library/theme-option.php:764
+#: ../library/theme-option.php:823 ../library/theme-option.php:883
+#: ../library/theme-option.php:943 ../library/theme-option.php:1002
+#: ../library/theme-option.php:1043
+msgid "Enable"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:423
+#: ../framework/page-builder/controller/bk_pd_cfg.php:484
+#: ../framework/page-builder/controller/bk_pd_cfg.php:737
+#: ../framework/page-builder/controller/bk_pd_cfg.php:882
+#: ../framework/page-builder/controller/bk_pd_cfg.php:943
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1004
+#: ../library/theme-option.php:706 ../library/theme-option.php:765
+#: ../library/theme-option.php:824 ../library/theme-option.php:884
+#: ../library/theme-option.php:944 ../library/theme-option.php:1003
+#: ../library/theme-option.php:1044
+msgid "Disable"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:445
+#: ../framework/page-builder/controller/bk_pd_cfg.php:698
+msgid "BK Square Grid"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:496
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1026
+msgid "BK Custom HTML"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:500
+#: ../framework/page-builder/controller/bk_pd_cfg.php:523
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1030
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1053
+msgid "The module title"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:511
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1041
+msgid "HTML Code"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:512
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1042
+msgid "Put your custom HTML code here"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:519
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1049
+msgid "BK Short Code"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:534
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1064
+#: ../framework/widgets/widget_shortcode.php:62
+msgid "Shortcode"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:535
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1065
+msgid "Put Shortcode here"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:542
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1072
+msgid "BK Single Ads"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:545
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1075
+msgid "Image Url"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:551
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1081
+msgid "Url"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:559
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1089
+msgid "BK Two Cols Ads"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:562
+#: ../framework/page-builder/controller/bk_pd_cfg.php:591
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1092
+msgid "Image Url - (First Column)"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:568
+#: ../framework/page-builder/controller/bk_pd_cfg.php:597
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1098
+msgid "Url - (First Column)"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:574
+#: ../framework/page-builder/controller/bk_pd_cfg.php:615
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1104
+msgid "Image Url - (Last Column)"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:580
+#: ../framework/page-builder/controller/bk_pd_cfg.php:621
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1110
+msgid "Url - (Last Column)"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:588
+msgid "BK Three Cols Ads"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:603
+msgid "Image Url - (Middle Column)"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:609
+msgid "Url - (Middle Column)"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:629
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1118
+msgid "BK Adsense"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:632
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1121
+msgid "Adsense Code"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:633
+#: ../framework/page-builder/controller/bk_pd_cfg.php:1122
+msgid "Put your adsense code here"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:643
+msgid "BK Feature Slider"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:749
+msgid "BK Post Block 1"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:798
+msgid "BK Post Block 2"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:904
+msgid "BK Classic Blog"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_cfg.php:965
+msgid "BK Large Blog"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_template.php:18
+msgid "Choose <strong>Layout section</strong> to add new section."
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_template.php:19
+#: ../framework/page-builder/controller/bk_pd_template.php:156
+#: ../framework/page-builder/controller/bk_pd_template.php:190
+#: ../framework/page-builder/controller/bk_pd_template.php:223
+#: ../framework/page-builder/controller/bk_pd_template.php:240
+msgid "Loading ..."
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_template.php:115
+msgid "None"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_template.php:145
+#: ../framework/page-builder/controller/bk_pd_template.php:179
+#: ../framework/page-builder/controller/bk_pd_template.php:214
+#: ../framework/page-builder/controller/bk_pd_template.php:231
+msgid "Add Module"
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_template.php:155
+#: ../framework/page-builder/controller/bk_pd_template.php:189
+#: ../framework/page-builder/controller/bk_pd_template.php:239
+msgid "Click <strong>Add Module</strong> button to add new module."
+msgstr ""
+
+#: ../framework/page-builder/controller/bk_pd_template.php:222
+msgid "Click <strong>Add Module</strong> button to add new section."
+msgstr ""
+
+#: ../framework/taxonomy-meta/taxonomy-meta.php:136
+#: ../framework/taxonomy-meta/taxonomy-meta.php:177
+#: ../framework/taxonomy-meta/taxonomy-meta.php:404
+#: ../framework/taxonomy-meta/taxonomy-meta.php:431
+msgid "Delete"
+msgstr ""
+
+#: ../framework/taxonomy-meta/taxonomy-meta.php:145
+#: ../framework/taxonomy-meta/taxonomy-meta.php:411
+msgid "Select File"
+msgstr ""
+
+#: ../framework/taxonomy-meta/taxonomy-meta.php:186
+#: ../framework/taxonomy-meta/taxonomy-meta.php:438
+msgid "Select Image"
+msgstr ""
+
+#: ../framework/taxonomy-meta/taxonomy-meta.php:354
+#: ../library/taxonomy-meta-config.php:47
+msgid "Global Setting"
+msgstr ""
+
+#: ../framework/widgets/widget_ads.php:27
+msgid "Displays Ads in any section."
+msgstr ""
+
+#: ../framework/widgets/widget_ads.php:30
+msgid "*BK: Widget Ads"
+msgstr ""
+
+#: ../framework/widgets/widget_ads.php:62
+msgid "Ads"
+msgstr ""
+
+#: ../framework/widgets/widget_ads.php:70
+#: ../framework/widgets/widget_facebook.php:98
+#: ../framework/widgets/widget_flickr.php:118
+#: ../framework/widgets/widget_google_badge.php:100
+#: ../framework/widgets/widget_instagram.php:102
+#: ../framework/widgets/widget_latest_comments.php:133
+#: ../framework/widgets/widget_latest_posts.php:125
+#: ../framework/widgets/widget_latest_posts_2.php:123
+#: ../framework/widgets/widget_latest_review.php:137
+#: ../framework/widgets/widget_most_commented.php:162
+#: ../framework/widgets/widget_shortcode.php:68
+#: ../framework/widgets/widget_social_counter.php:400
+#: ../framework/widgets/widget_top_review.php:163
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/widget_ads.php:76
+msgid "Ads Image Url:"
+msgstr ""
+
+#: ../framework/widgets/widget_ads.php:82
+msgid "Link Url:"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:35
+msgid "[Sidebar widget] Displays the Facebook likebox in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:38
+msgid "BK-Ninja: Widget Facebook"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:94
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:104
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:109
+msgid "Show Facebook Posts:"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:111
+msgid "True"
+msgstr ""
+
+#: ../framework/widgets/widget_facebook.php:112
+msgid "False"
+msgstr ""
+
+#: ../framework/widgets/widget_flickr.php:33
+msgid "[Sidebar widget] Displays Flickr images in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_flickr.php:36
+msgid "BK-Ninja: Widget Flickr"
+msgstr ""
+
+#: ../framework/widgets/widget_flickr.php:121
+msgid "Flickr User ID "
+msgstr ""
+
+#: ../framework/widgets/widget_flickr.php:124
+msgid "Number of images:"
+msgstr ""
+
+#: ../framework/widgets/widget_google_badge.php:35
+msgid "[Sidebar widget] Displays google badge box in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_google_badge.php:38
+msgid "BK-Ninja: Widget Google Badge"
+msgstr ""
+
+#: ../framework/widgets/widget_google_badge.php:105
+msgid "Google plus profile ID:"
+msgstr ""
+
+#: ../framework/widgets/widget_google_badge.php:110
+msgid "Layout: "
+msgstr ""
+
+#: ../framework/widgets/widget_google_badge.php:112
+msgid "Portrait"
+msgstr ""
+
+#: ../framework/widgets/widget_google_badge.php:113
+msgid "Landscape"
+msgstr ""
+
+#: ../framework/widgets/widget_google_badge.php:119
+msgid "Theme: "
+msgstr ""
+
+#: ../framework/widgets/widget_google_badge.php:128
+msgid "Show cover photo"
+msgstr ""
+
+#: ../framework/widgets/widget_instagram.php:25
+msgid "Displays Instagram Gallery."
+msgstr ""
+
+#: ../framework/widgets/widget_instagram.php:28
+msgid "*BK: Widget Instagram"
+msgstr ""
+
+#: ../framework/widgets/widget_instagram.php:104
+msgid "Instagram user ID:"
+msgstr ""
+
+#: ../framework/widgets/widget_instagram.php:105
+msgid "Instagram access token:"
+msgstr ""
+
+#: ../framework/widgets/widget_instagram.php:106
+msgid "Images count:"
+msgstr ""
+
+#: ../framework/widgets/widget_latest_comments.php:33
+msgid "[Sidebar widget] Displays latest comments in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_latest_comments.php:36
+msgid "BK-Ninja: Widget Latest Comments"
+msgstr ""
+
+#: ../framework/widgets/widget_latest_comments.php:136
+#: ../framework/widgets/widget_latest_posts.php:128
+#: ../framework/widgets/widget_latest_posts_2.php:126
+#: ../framework/widgets/widget_latest_review.php:141
+#: ../framework/widgets/widget_most_commented.php:166
+#: ../framework/widgets/widget_slider.php:154
+#: ../framework/widgets/widget_top_review.php:168
+msgid "Number of entries to display: "
+msgstr ""
+
+#: ../framework/widgets/widget_latest_posts.php:33
+#: ../framework/widgets/widget_latest_posts_2.php:33
+msgid "[Sidebar widget] Displays latest posts in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_latest_posts.php:36
+msgid "BK-Ninja: Widget Latest Posts"
+msgstr ""
+
+#: ../framework/widgets/widget_latest_posts.php:130
+#: ../framework/widgets/widget_latest_posts_2.php:128
+#: ../framework/widgets/widget_latest_review.php:144
+#: ../framework/widgets/widget_slider.php:132
+msgid "Offet Posts number: "
+msgstr ""
+
+#: ../framework/widgets/widget_latest_posts.php:133
+#: ../framework/widgets/widget_latest_posts_2.php:131
+#: ../framework/widgets/widget_latest_review.php:148
+#: ../framework/widgets/widget_most_commented.php:183
+#: ../framework/widgets/widget_slider.php:136
+#: ../framework/widgets/widget_top_review.php:182
+msgid "Filter by Category: "
+msgstr ""
+
+#: ../framework/widgets/widget_latest_posts.php:135
+#: ../framework/widgets/widget_latest_posts_2.php:133
+#: ../framework/widgets/widget_latest_review.php:150
+#: ../framework/widgets/widget_most_commented.php:185
+#: ../framework/widgets/widget_slider.php:138
+#: ../framework/widgets/widget_top_review.php:184
+msgid "All Categories"
+msgstr ""
+
+#: ../framework/widgets/widget_latest_posts_2.php:36
+msgid "BK-Ninja: (2) Widget Latest Posts Type 2"
+msgstr ""
+
+#: ../framework/widgets/widget_latest_review.php:34
+msgid "[Sidebar widget] Displays recent review posts in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_latest_review.php:37
+msgid "BK-Ninja: Widget Latest Reviews"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:33
+msgid "[Sidebar widget] Displays posts that has most commented in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:36
+msgid "BK-Ninja: Widget Most Commented"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:122
+msgid "0"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:122
+msgid "1"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:122
+msgid "%"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:171
+msgid "Time "
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:173
+#: ../framework/widgets/widget_top_review.php:175
+msgid "All time"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:174
+msgid "This Week"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:175
+msgid "Last Week"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:176
+msgid "This Month"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:177
+msgid "Last Month"
+msgstr ""
+
+#: ../framework/widgets/widget_most_commented.php:178
+msgid "This Year"
+msgstr ""
+
+#: ../framework/widgets/widget_shortcode.php:27
+msgid "Displays shortcode in the sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_shortcode.php:30
+msgid "*BK: Widget shortcode"
+msgstr ""
+
+#: ../framework/widgets/widget_shortcode.php:74
+msgid "Put the shortcode here:"
+msgstr ""
+
+#: ../framework/widgets/widget_slider.php:33
+msgid "[Sidebar widget] Displays a slider in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_slider.php:36
+msgid "BK-Ninja: Widget Slider"
+msgstr ""
+
+#: ../framework/widgets/widget_slider.php:128
+#: ../framework/widgets/widget_twitter.php:121
+msgid "Title: "
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:43
+msgid "Displays social counters"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:46
+msgid "BKninja: Widget Social Counters"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:253
+#: ../framework/widgets/widget_social_counter.php:277
+#: ../framework/widgets/widget_social_counter.php:301
+#: ../framework/widgets/widget_social_counter.php:313
+#: ../framework/widgets/widget_social_counter.php:324
+msgid "Followers"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:265
+msgid "Likes"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:289
+msgid "Subscribers"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:334
+msgid "Subscribe"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:335
+msgid "RSS Feeds"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:405
+msgid "Facebook Username:"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:410
+msgid "Facebook Access token:"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:416
+msgid "Dribbble Username"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:421
+msgid "Youtube username"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:426
+msgid "Pinterest ID"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:431
+msgid "SoundCloud Username"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:445
+msgid "RSS URL"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:450
+msgid "Twitter Name"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:455
+msgid "Consumer key"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:460
+msgid "Consumer secret"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:465
+msgid "Access token"
+msgstr ""
+
+#: ../framework/widgets/widget_social_counter.php:470
+msgid "Access token secret"
+msgstr ""
+
+#: ../framework/widgets/widget_top_review.php:34
+msgid "[Sidebar widget] Displays top review posts in sidebar."
+msgstr ""
+
+#: ../framework/widgets/widget_top_review.php:37
+msgid "BK-Ninja: Widget Top Reviews"
+msgstr ""
+
+#: ../framework/widgets/widget_top_review.php:173
+msgid "Filter by time for Top Reviews: "
+msgstr ""
+
+#: ../framework/widgets/widget_top_review.php:176
+msgid "This week"
+msgstr ""
+
+#: ../framework/widgets/widget_top_review.php:177
+msgid "This month"
+msgstr ""
+
+#: ../framework/widgets/widget_top_review.php:178
+msgid "This year"
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:30
+msgid "[Sidebar widget] Displays latest tweets in sidebar"
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:34
+msgid "*BK: Widget Twitter"
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:65
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:79
+msgid "Configuration error or no data."
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:81
+msgid "Please install plugin name \"oAuth Twitter Feed for Developers"
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:126
+msgid "Twitter Username"
+msgstr ""
+
+#: ../framework/widgets/widget_twitter.php:132
+msgid " tweets"
+msgstr ""
+
+#: ../functions.php:77 ../inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:78 ../inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:79 ../inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:80 ../inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:91 ../inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:92 ../inc/class-tgm-plugin-activation.php:399
+#: ../inc/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:93
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:113
+#, php-format
+msgid ""
+"To enable theme update notifications, please enter your Envato Marketplace "
+"credentials in the %s"
+msgstr ""
+
+#: ../functions.php:155
+#, php-format
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr ""
+
+#: ../functions.php:270 ../library/theme-option.php:753
+#: ../library/theme-option.php:812 ../library/theme-option.php:872
+#: ../library/theme-option.php:932 ../library/theme-option.php:991
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:279
+msgid "Sidebar 2"
+msgstr ""
+
+#: ../functions.php:288
+msgid "Single Sidebar"
+msgstr ""
+
+#: ../functions.php:297
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:306
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../functions.php:315
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../functions.php:324
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../functions.php:419 ../header.php:84
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:420 ../header.php:72
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:421
+msgid "Footer Menu"
+msgstr ""
+
+#: ../inc/blocks/fullwidth/bk_masonry.php:52
+#: ../inc/blocks/fullwidth/bk_square_grid.php:49
+#: ../inc/blocks/has_sb/bk_classic_blog.php:39
+#: ../inc/blocks/has_sb/bk_large_blog.php:39
+#: ../library/templates/footers/footer1.php:3
+#: ../library/templates/footers/footer2.php:3
+msgid "Load More"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:400
+#: ../inc/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:833
+#: ../inc/class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:940
+#: ../inc/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1886
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2240
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2376
+msgid "unknown"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2505
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3375
+#: ../inc/class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3375
+#: ../inc/class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../inc/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:288
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../inc/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:299
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:118
+msgid "By "
+msgstr ""
+
+#: ../inc/libs/bk_core.php:206
+msgid "Read More"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:317
+msgid "please put youtube or vimeo video link to the video post format section"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:399 ../library/theme-option.php:195
+msgid "Tags"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:401
+#, php-format
+msgid "View all posts tagged %s"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:416
+msgid "Previous Article"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:426
+msgid "Next Article"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:456
+msgid "Email"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:686 ../library/core.php:313
+msgid "You have rated "
+msgstr ""
+
+#: ../inc/libs/bk_core.php:692 ../library/core.php:231
+msgid "Rate"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:694 ../library/core.php:233
+msgid "Rates"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:696 ../library/core.php:231 ../library/core.php:233
+msgid "Reader Rating"
+msgstr ""
+
+#: ../inc/libs/bk_core.php:881
+msgid "Share:"
+msgstr ""
+
+#: ../index.php:14
+msgid "Latest Articles"
+msgstr ""
+
+#: ../library/core.php:112
+msgid "Search and hit enter.."
+msgstr ""
+
+#: ../library/core.php:141
+msgid "Reply"
+msgstr ""
+
+#: ../library/core.php:150
+msgid "j F, Y \\a\\t H:i"
+msgstr ""
+
+#: ../library/core.php:153
+msgid "Edit"
+msgstr ""
+
+#: ../library/core.php:163
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: ../library/mega_menu.php:181
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../library/mega_menu.php:185
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../library/mega_menu.php:198
+msgid "sub item"
+msgstr ""
+
+#: ../library/mega_menu.php:230
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../library/mega_menu.php:239
+msgid "URL"
+msgstr ""
+
+#: ../library/mega_menu.php:246
+msgid "Navigation Label"
+msgstr ""
+
+#: ../library/mega_menu.php:252
+msgid "Title Attribute"
+msgstr ""
+
+#: ../library/mega_menu.php:259
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../library/mega_menu.php:264
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../library/mega_menu.php:270
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../library/mega_menu.php:282
+msgid "Description"
+msgstr ""
+
+#: ../library/mega_menu.php:285
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../library/mega_menu.php:290
+msgid "Move"
+msgstr ""
+
+#: ../library/mega_menu.php:291
+msgid "Up one"
+msgstr ""
+
+#: ../library/mega_menu.php:292
+msgid "Down one"
+msgstr ""
+
+#: ../library/mega_menu.php:295
+msgid "To the top"
+msgstr ""
+
+#: ../library/mega_menu.php:302
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../library/mega_menu.php:315
+msgid "Remove"
+msgstr ""
+
+#: ../library/mega_menu.php:316
+msgid "Cancel"
+msgstr ""
+
+#: ../library/meta_box_config.php:19
+msgid "BK Post Option"
+msgstr ""
+
+#: ../library/meta_box_config.php:28
+msgid "Post Layout Option"
+msgstr ""
+
+#: ../library/meta_box_config.php:29
+msgid "Setup Post Layout"
+msgstr ""
+
+#: ../library/meta_box_config.php:32
+msgid "Parallax"
+msgstr ""
+
+#: ../library/meta_box_config.php:33
+msgid "Fullwidth"
+msgstr ""
+
+#: ../library/meta_box_config.php:34
+msgid "Standard"
+msgstr ""
+
+#: ../library/meta_box_config.php:42
+msgid "Choose a sidebar for this post"
+msgstr ""
+
+#: ../library/meta_box_config.php:45
+msgid ""
+"Global Setting option: Theme Options -> Single Settings -> Single Page "
+"Sidebar (this options will be overridden by the other options)"
+msgstr ""
+
+#: ../library/meta_box_config.php:53
+msgid "BK Post Format Options"
+msgstr ""
+
+#: ../library/meta_box_config.php:60
+msgid "Format Options: Video, Audio"
+msgstr ""
+
+#: ../library/meta_box_config.php:61
+msgid "Support Youtube, Vimeo, SoundCloud, DailyMotion Link"
+msgstr ""
+
+#: ../library/meta_box_config.php:64
+msgid "Link ..."
+msgstr ""
+
+#: ../library/meta_box_config.php:69
+msgid "Format Options: Image"
+msgstr ""
+
+#: ../library/meta_box_config.php:70
+msgid "Image Upload"
+msgstr ""
+
+#: ../library/meta_box_config.php:77
+msgid "Format Options: Gallery"
+msgstr ""
+
+#: ../library/meta_box_config.php:78
+msgid "Gallery Images"
+msgstr ""
+
+#: ../library/meta_box_config.php:88
+msgid "BK Review System"
+msgstr ""
+
+#: ../library/meta_box_config.php:96
+msgid "Include Review Box"
+msgstr ""
+
+#: ../library/meta_box_config.php:99
+msgid "Enable Review On This Post"
+msgstr ""
+
+#: ../library/meta_box_config.php:104
+msgid "Criteria 1 Title"
+msgstr ""
+
+#: ../library/meta_box_config.php:109
+msgid "Criteria 1 Score"
+msgstr ""
+
+#: ../library/meta_box_config.php:120
+msgid "Criteria 2 Title"
+msgstr ""
+
+#: ../library/meta_box_config.php:125
+msgid "Criteria 2 Score"
+msgstr ""
+
+#: ../library/meta_box_config.php:136
+msgid "Criteria 3 Title"
+msgstr ""
+
+#: ../library/meta_box_config.php:141
+msgid "Criteria 3 Score"
+msgstr ""
+
+#: ../library/meta_box_config.php:152
+msgid "Criteria 4 Title"
+msgstr ""
+
+#: ../library/meta_box_config.php:157
+msgid "Criteria 4 Score"
+msgstr ""
+
+#: ../library/meta_box_config.php:168
+msgid "Criteria 5 Title"
+msgstr ""
+
+#: ../library/meta_box_config.php:173
+msgid "Criteria 5 Score"
+msgstr ""
+
+#: ../library/meta_box_config.php:184
+msgid "Criteria 6 Title"
+msgstr ""
+
+#: ../library/meta_box_config.php:189
+msgid "Criteria 6 Score"
+msgstr ""
+
+#: ../library/meta_box_config.php:200
+msgid "Summary"
+msgstr ""
+
+#: ../library/meta_box_config.php:209
+msgid "Final Average Score"
+msgstr ""
+
+#: ../library/meta_box_config.php:214
+msgid "User Rating"
+msgstr ""
+
+#: ../library/meta_box_config.php:217
+msgid "Enable User Rating On This Post"
+msgstr ""
+
+#: ../library/meta_box_config.php:222
+msgid "Review Box Position"
+msgstr ""
+
+#: ../library/meta_box_config.php:223
+msgid ""
+"Setup review post position [left-content, right-content, above-content, "
+"below-content]"
+msgstr ""
+
+#: ../library/meta_box_config.php:226 ../library/theme-option.php:282
+msgid "Left"
+msgstr ""
+
+#: ../library/meta_box_config.php:227
+msgid "Right "
+msgstr ""
+
+#: ../library/meta_box_config.php:228
+msgid "Above"
+msgstr ""
+
+#: ../library/meta_box_config.php:229
+msgid "Below"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:36
+msgid "BK Category / Tag Options"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:43
+msgid "Category / Tag layouts"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:48 ../library/theme-option.php:727
+#: ../library/theme-option.php:786 ../library/theme-option.php:846
+#: ../library/theme-option.php:906 ../library/theme-option.php:965
+msgid "Classic Blog"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:49 ../library/theme-option.php:728
+#: ../library/theme-option.php:787 ../library/theme-option.php:847
+#: ../library/theme-option.php:907 ../library/theme-option.php:966
+msgid "Large Blog with Sidebar"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:50 ../library/theme-option.php:729
+#: ../library/theme-option.php:788 ../library/theme-option.php:848
+#: ../library/theme-option.php:908 ../library/theme-option.php:967
+msgid "Masonry with Sidebar"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:51 ../library/theme-option.php:730
+#: ../library/theme-option.php:789 ../library/theme-option.php:849
+#: ../library/theme-option.php:909 ../library/theme-option.php:968
+msgid "Masonry no Sidebar"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:52 ../library/theme-option.php:731
+#: ../library/theme-option.php:790 ../library/theme-option.php:850
+#: ../library/theme-option.php:910 ../library/theme-option.php:969
+msgid "Square Grid no Sidebar"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:53 ../library/theme-option.php:732
+#: ../library/theme-option.php:791 ../library/theme-option.php:851
+#: ../library/theme-option.php:911 ../library/theme-option.php:970
+msgid "Square Grid with Sidebar"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:56
+#: ../library/taxonomy-meta-config.php:71
+msgid "Global setting option is set in Theme Option panel"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:60
+msgid "Display featured slider"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:61
+msgid "This option will be not effected on Tag (Archive) Page"
+msgstr ""
+
+#: ../library/taxonomy-meta-config.php:67
+msgid "Select a sidebar for this category page"
+msgstr ""
+
+#: ../library/templates/footers/footer1.php:4
+#: ../library/templates/footers/footer2.php:4
+msgid "No More Posts"
+msgstr ""
+
+#: ../library/theme-option.php:174
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../library/theme-option.php:193
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../library/theme-option.php:194
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../library/theme-option.php:199
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../library/theme-option.php:200
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../library/theme-option.php:219
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:134
+msgid "General Settings"
+msgstr ""
+
+#: ../library/theme-option.php:225
+msgid "Site favicon"
+msgstr ""
+
+#: ../library/theme-option.php:226
+msgid "Upload site Favicon (16x16 px)"
+msgstr ""
+
+#: ../library/theme-option.php:227 ../library/theme-option.php:306
+msgid "No media selected"
+msgstr ""
+
+#: ../library/theme-option.php:232
+msgid "Primary color"
+msgstr ""
+
+#: ../library/theme-option.php:233
+msgid "Pick a primary color for the theme."
+msgstr ""
+
+#: ../library/theme-option.php:240
+msgid "Smooth Scroll Enable"
+msgstr ""
+
+#: ../library/theme-option.php:241
+msgid "Choose to enable/disable Smooth Scroll Script"
+msgstr ""
+
+#: ../library/theme-option.php:243 ../library/theme-option.php:252
+#: ../library/theme-option.php:291 ../library/theme-option.php:321
+#: ../library/theme-option.php:331 ../library/theme-option.php:341
+#: ../library/theme-option.php:385 ../library/theme-option.php:422
+#: ../library/theme-option.php:649 ../library/theme-option.php:657
+#: ../library/theme-option.php:665 ../library/theme-option.php:673
+#: ../library/theme-option.php:1024 ../library/theme-option.php:1054
+#: ../library/theme-option.php:1069 ../library/theme-option.php:1078
+#: ../library/theme-option.php:1087 ../library/theme-option.php:1096
+#: ../library/theme-option.php:1105 ../library/theme-option.php:1114
+#: ../library/theme-option.php:1128 ../library/theme-option.php:1137
+#: ../library/theme-option.php:1146 ../library/theme-option.php:1155
+#: ../library/theme-option.php:1171
+msgid "Enabled"
+msgstr ""
+
+#: ../library/theme-option.php:244 ../library/theme-option.php:253
+#: ../library/theme-option.php:292 ../library/theme-option.php:322
+#: ../library/theme-option.php:332 ../library/theme-option.php:342
+#: ../library/theme-option.php:386 ../library/theme-option.php:423
+#: ../library/theme-option.php:650 ../library/theme-option.php:658
+#: ../library/theme-option.php:666 ../library/theme-option.php:674
+#: ../library/theme-option.php:1025 ../library/theme-option.php:1055
+#: ../library/theme-option.php:1070 ../library/theme-option.php:1079
+#: ../library/theme-option.php:1088 ../library/theme-option.php:1097
+#: ../library/theme-option.php:1106 ../library/theme-option.php:1115
+#: ../library/theme-option.php:1129 ../library/theme-option.php:1138
+#: ../library/theme-option.php:1147 ../library/theme-option.php:1156
+#: ../library/theme-option.php:1172
+msgid "Disabled"
+msgstr ""
+
+#: ../library/theme-option.php:249
+msgid "Retina Display"
+msgstr ""
+
+#: ../library/theme-option.php:250
+msgid "Choose to enable/disable Retina Display for your page"
+msgstr ""
+
+#: ../library/theme-option.php:259
+msgid "Site Layout"
+msgstr ""
+
+#: ../library/theme-option.php:264
+msgid "Site layout"
+msgstr ""
+
+#: ../library/theme-option.php:265
+msgid "Choose between wide and boxed layout"
+msgstr ""
+
+#: ../library/theme-option.php:266
+msgid "Wide"
+msgstr ""
+
+#: ../library/theme-option.php:266
+msgid "Boxed"
+msgstr ""
+
+#: ../library/theme-option.php:274
+msgid "Site background"
+msgstr ""
+
+#: ../library/theme-option.php:275
+msgid "Choose background image or background color for boxed layout"
+msgstr ""
+
+#: ../library/theme-option.php:280
+msgid "Sidebar Location"
+msgstr ""
+
+#: ../library/theme-option.php:281
+msgid "Choose to display sidebar in the left or right the content section"
+msgstr ""
+
+#: ../library/theme-option.php:282
+msgid "Right"
+msgstr ""
+
+#: ../library/theme-option.php:288
+msgid "Enable sidebar in responsive layout (For small device width < 991px)"
+msgstr ""
+
+#: ../library/theme-option.php:289
+msgid "Choose to display or hide sidebar in responsive layout"
+msgstr ""
+
+#: ../library/theme-option.php:298
+msgid "Header Settings"
+msgstr ""
+
+#: ../library/theme-option.php:304
+msgid "Site logo"
+msgstr ""
+
+#: ../library/theme-option.php:305
+msgid "Upload logo of your site that is displayed in header"
+msgstr ""
+
+#: ../library/theme-option.php:312
+msgid "Main Nav background"
+msgstr ""
+
+#: ../library/theme-option.php:313
+msgid "Choose background image or background color for site header"
+msgstr ""
+
+#: ../library/theme-option.php:318
+msgid "Enable header top bar"
+msgstr ""
+
+#: ../library/theme-option.php:328
+msgid "Enable header Ajax login"
+msgstr ""
+
+#: ../library/theme-option.php:329
+msgid ""
+"You must install <a target=\"_blank\" href=\"https://wordpress.org/plugins/"
+"login-with-ajax/\">Login With Ajax</a> plugin to have this function"
+msgstr ""
+
+#: ../library/theme-option.php:338
+msgid "Enable social header "
+msgstr ""
+
+#: ../library/theme-option.php:339
+msgid "Enable social header by display icons"
+msgstr ""
+
+#: ../library/theme-option.php:348
+msgid "Social media"
+msgstr ""
+
+#: ../library/theme-option.php:349
+msgid "Set up social links for site"
+msgstr ""
+
+#: ../library/theme-option.php:360
+msgid "Enable fixed header menu"
+msgstr ""
+
+#: ../library/theme-option.php:361
+msgid "Choose between fixed and static header navigation"
+msgstr ""
+
+#: ../library/theme-option.php:362
+msgid "Static"
+msgstr ""
+
+#: ../library/theme-option.php:362
+msgid "Fixed"
+msgstr ""
+
+#: ../library/theme-option.php:369
+msgid "Menu Hover Effect"
+msgstr ""
+
+#: ../library/theme-option.php:370
+msgid "Choose between Jump Up effect and Fade Effect Menu"
+msgstr ""
+
+#: ../library/theme-option.php:371
+msgid "Jump Up"
+msgstr ""
+
+#: ../library/theme-option.php:371
+msgid "Fade"
+msgstr ""
+
+#: ../library/theme-option.php:378
+msgid "Footer Settings"
+msgstr ""
+
+#: ../library/theme-option.php:383
+msgid "Footer Instagram"
+msgstr ""
+
+#: ../library/theme-option.php:390
+msgid "Footer Instagram Setting"
+msgstr ""
+
+#: ../library/theme-option.php:398
+msgid "Instagram Section Title"
+msgstr ""
+
+#: ../library/theme-option.php:403
+msgid "Instagram Username"
+msgstr ""
+
+#: ../library/theme-option.php:408
+msgid "Instagram Token Access"
+msgstr ""
+
+#: ../library/theme-option.php:419
+msgid "Scroll top button"
+msgstr ""
+
+#: ../library/theme-option.php:420
+msgid "Show scroll to top button in right lower corner of window"
+msgstr ""
+
+#: ../library/theme-option.php:428
+msgid "Copyright text - HTML Validated"
+msgstr ""
+
+#: ../library/theme-option.php:429
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: ../library/theme-option.php:431
+msgid ""
+"&#169; Copyright <a href=\"htttp://your-site-url\">Your Site Name</a>. All "
+"rights reserved."
+msgstr ""
+
+#: ../library/theme-option.php:437
+msgid "Typography"
+msgstr ""
+
+#: ../library/theme-option.php:443
+msgid "Top-menu font"
+msgstr ""
+
+#: ../library/theme-option.php:457
+msgid "Font options for top menu"
+msgstr ""
+
+#: ../library/theme-option.php:469
+msgid "Main-menu font"
+msgstr ""
+
+#: ../library/theme-option.php:483
+msgid "Font options for main menu"
+msgstr ""
+
+#: ../library/theme-option.php:495
+msgid "Review score font"
+msgstr ""
+
+#: ../library/theme-option.php:509
+msgid "Font options for review score"
+msgstr ""
+
+#: ../library/theme-option.php:522
+msgid "Meta font"
+msgstr ""
+
+#: ../library/theme-option.php:536
+msgid "Font options for meta"
+msgstr ""
+
+#: ../library/theme-option.php:547
+msgid "Module title / Page Title font"
+msgstr ""
+
+#: ../library/theme-option.php:561
+msgid "Font options for Module title / Page Title"
+msgstr ""
+
+#: ../library/theme-option.php:574
+msgid "Title font"
+msgstr ""
+
+#: ../library/theme-option.php:588
+msgid "Font options for title"
+msgstr ""
+
+#: ../library/theme-option.php:601
+msgid "Text font"
+msgstr ""
+
+#: ../library/theme-option.php:615
+msgid "Font options for text body"
+msgstr ""
+
+#: ../library/theme-option.php:626
+msgid "Post Settings"
+msgstr ""
+
+#: ../library/theme-option.php:633
+msgid "Featured tag name"
+msgstr ""
+
+#: ../library/theme-option.php:634
+msgid ""
+"Tag name to feature your post, if no posts match the tag, sticky post will "
+"be displayed instead."
+msgstr ""
+
+#: ../library/theme-option.php:639
+msgid "Post meta"
+msgstr ""
+
+#: ../library/theme-option.php:640
+msgid "Options for displaying post meta in modules and widgets"
+msgstr ""
+
+#: ../library/theme-option.php:647
+msgid "Enable post meta review score"
+msgstr ""
+
+#: ../library/theme-option.php:655
+msgid "Enable post meta author"
+msgstr ""
+
+#: ../library/theme-option.php:663
+msgid "Enable post meta date"
+msgstr ""
+
+#: ../library/theme-option.php:671
+msgid "Enable post meta comments"
+msgstr ""
+
+#: ../library/theme-option.php:686 ../library/theme-option.php:687
+msgid "Pages Setting"
+msgstr ""
+
+#: ../library/theme-option.php:688
+msgid "<p class=\"description\">Setting layout for pages</p>"
+msgstr ""
+
+#: ../library/theme-option.php:693
+msgid "Pagebuilder Setting"
+msgstr ""
+
+#: ../library/theme-option.php:702 ../library/theme-option.php:761
+#: ../library/theme-option.php:820 ../library/theme-option.php:880
+#: ../library/theme-option.php:940 ../library/theme-option.php:999
+#: ../library/theme-option.php:1040
+msgid "Stick Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:703 ../library/theme-option.php:762
+#: ../library/theme-option.php:821 ../library/theme-option.php:881
+#: ../library/theme-option.php:941 ../library/theme-option.php:1000
+#: ../library/theme-option.php:1041
+msgid "Enable Stick Sidebar / Disable Stick Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:718
+msgid "Blog Page Setting"
+msgstr ""
+
+#: ../library/theme-option.php:726
+msgid "Blog page layout"
+msgstr ""
+
+#: ../library/theme-option.php:740
+msgid "Enable Post Icon on Blog page"
+msgstr ""
+
+#: ../library/theme-option.php:741 ../library/theme-option.php:800
+#: ../library/theme-option.php:860 ../library/theme-option.php:920
+#: ../library/theme-option.php:979
+msgid ""
+"Support for \"Classic Blog layout\", \"Large Blog layout\" and \"Masonry "
+"Layout\""
+msgstr ""
+
+#: ../library/theme-option.php:754
+msgid "Choose sidebar for blog page"
+msgstr ""
+
+#: ../library/theme-option.php:777
+msgid "Author Page Setting"
+msgstr ""
+
+#: ../library/theme-option.php:785
+msgid "Author page layout"
+msgstr ""
+
+#: ../library/theme-option.php:799
+msgid "Enable Post Icon on Author page"
+msgstr ""
+
+#: ../library/theme-option.php:813
+msgid "Choose sidebar for Author page"
+msgstr ""
+
+#: ../library/theme-option.php:836
+msgid "Category Page Setting"
+msgstr ""
+
+#: ../library/theme-option.php:844
+msgid "Category page layout"
+msgstr ""
+
+#: ../library/theme-option.php:845
+msgid ""
+"Global setting for layout of category archive page, will be overridden by "
+"layout option in category edit page."
+msgstr ""
+
+#: ../library/theme-option.php:859
+msgid "Enable Post Icon on category page"
+msgstr ""
+
+#: ../library/theme-option.php:873
+msgid "Choose sidebar for Category page"
+msgstr ""
+
+#: ../library/theme-option.php:896
+msgid "Archive Page Setting"
+msgstr ""
+
+#: ../library/theme-option.php:904
+msgid "Archive page layout"
+msgstr ""
+
+#: ../library/theme-option.php:905
+msgid "Layout for Archive page and Tag archive."
+msgstr ""
+
+#: ../library/theme-option.php:919
+msgid "Enable Post Icon on Archive page"
+msgstr ""
+
+#: ../library/theme-option.php:933
+msgid "Choose sidebar for Archive page"
+msgstr ""
+
+#: ../library/theme-option.php:956
+msgid "Search Page Setting"
+msgstr ""
+
+#: ../library/theme-option.php:964
+msgid "Search page layout"
+msgstr ""
+
+#: ../library/theme-option.php:978
+msgid "Enable Post Icon on Search page"
+msgstr ""
+
+#: ../library/theme-option.php:992
+msgid "Choose sidebar for Search page"
+msgstr ""
+
+#: ../library/theme-option.php:1016
+msgid "Single Settings"
+msgstr ""
+
+#: ../library/theme-option.php:1021
+msgid "Featured image"
+msgstr ""
+
+#: ../library/theme-option.php:1022
+msgid ""
+"Enable/Disable featured image in single post (Just effect to Standard Post "
+"Layout)"
+msgstr ""
+
+#: ../library/theme-option.php:1032
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: ../library/theme-option.php:1033
+msgid "Choose sidebar for single page"
+msgstr ""
+
+#: ../library/theme-option.php:1051
+msgid "Enable share box"
+msgstr ""
+
+#: ../library/theme-option.php:1052
+msgid "Enable share links below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1067
+msgid "Enable Facebook share link"
+msgstr ""
+
+#: ../library/theme-option.php:1076
+msgid "Enable Twitter share link"
+msgstr ""
+
+#: ../library/theme-option.php:1085
+msgid "Enable Google+ share link"
+msgstr ""
+
+#: ../library/theme-option.php:1094
+msgid "Enable Pinterest share link"
+msgstr ""
+
+#: ../library/theme-option.php:1103
+msgid "Enable Stumbleupon share link"
+msgstr ""
+
+#: ../library/theme-option.php:1112
+msgid "Enable Linkedin share link"
+msgstr ""
+
+#: ../library/theme-option.php:1125
+msgid "Enable author box"
+msgstr ""
+
+#: ../library/theme-option.php:1126
+msgid "Enable author information below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1134
+msgid "Enable post navigation"
+msgstr ""
+
+#: ../library/theme-option.php:1135
+msgid "Enable post navigation below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1143
+msgid "Enable related posts"
+msgstr ""
+
+#: ../library/theme-option.php:1144
+msgid "Enable related posts below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1152
+msgid "Enable comment section"
+msgstr ""
+
+#: ../library/theme-option.php:1153
+msgid "Enable comment section below single post"
+msgstr ""
+
+#: ../library/theme-option.php:1160
+msgid "Recommend Box Setting"
+msgstr ""
+
+#: ../library/theme-option.php:1168
+msgid "Enable Recommend Box"
+msgstr ""
+
+#: ../library/theme-option.php:1169
+msgid "A random post appear on single page"
+msgstr ""
+
+#: ../library/theme-option.php:1177
+msgid "Recommend Box title"
+msgstr ""
+
+#: ../library/theme-option.php:1185
+msgid "Categories"
+msgstr ""
+
+#: ../library/theme-option.php:1191
+msgid "Type number of posts will be displayed"
+msgstr ""
+
+#: ../library/theme-option.php:1203
+msgid "Custom CSS"
+msgstr ""
+
+#: ../library/theme-option.php:1208
+msgid "CSS Code"
+msgstr ""
+
+#: ../library/theme-option.php:1209
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../library/theme-option.php:1212
+msgid ""
+"Possible modes can be found at <a href=\"http://ace.c9.io\" target=\"_blank"
+"\">"
+msgstr ""
+
+#: ../library/theme-option.php:1220
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:1221
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:1222
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:1226
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../library/theme-option.php:1258 ../library/theme-option.php:1259
+msgid "Theme Options"
+msgstr ""
+
+#: ../page.php:30
+msgid "Not Found"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_in.php:34
+#: ../plugins/login-with-ajax/divs-only/widget_in.php:34
+#: ../plugins/login-with-ajax/modal/widget_in.php:40
+msgid "Topics Started"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_in.php:39
+#: ../plugins/login-with-ajax/divs-only/widget_in.php:39
+#: ../plugins/login-with-ajax/modal/widget_in.php:45
+msgid "Replies Created"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_in.php:44
+#: ../plugins/login-with-ajax/divs-only/widget_in.php:44
+#: ../plugins/login-with-ajax/modal/widget_in.php:50
+msgid "Favorites"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_in.php:49
+#: ../plugins/login-with-ajax/divs-only/widget_in.php:49
+#: ../plugins/login-with-ajax/modal/widget_in.php:55
+msgid "Subscriptions"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_in.php:54
+#: ../plugins/login-with-ajax/default/widget_in.php:77
+#: ../plugins/login-with-ajax/divs-only/widget_in.php:54
+#: ../plugins/login-with-ajax/divs-only/widget_in.php:77
+#: ../plugins/login-with-ajax/modal/widget_in.php:21
+#: ../plugins/login-with-ajax/modal/widget_in.php:60
+#: ../plugins/login-with-ajax/modal/widget_in.php:83
+msgid "Log Out"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_in.php:72
+#: ../plugins/login-with-ajax/divs-only/widget_in.php:72
+#: ../plugins/login-with-ajax/modal/widget_in.php:78
+msgid "Edit Profile"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_out.php:17
+#: ../plugins/login-with-ajax/divs-only/widget_out.php:17
+#: ../plugins/login-with-ajax/modal/widget_out.php:24
+msgid "your username"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_out.php:22
+#: ../plugins/login-with-ajax/divs-only/widget_out.php:22
+#: ../plugins/login-with-ajax/modal/widget_out.php:29
+msgid "your password"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_out.php:35
+#: ../plugins/login-with-ajax/default/widget_out.php:72
+#: ../plugins/login-with-ajax/divs-only/widget_out.php:35
+#: ../plugins/login-with-ajax/divs-only/widget_out.php:72
+#: ../plugins/login-with-ajax/modal/widget_out.php:42
+#: ../plugins/login-with-ajax/modal/widget_out.php:79
+msgid "Register"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_out.php:58
+#: ../plugins/login-with-ajax/divs-only/widget_out.php:58
+#: ../plugins/login-with-ajax/modal/widget_out.php:65
+msgid "Enter username or email"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_out.php:62
+#: ../plugins/login-with-ajax/divs-only/widget_out.php:62
+#: ../plugins/login-with-ajax/modal/widget_out.php:69
+#: ../plugins/login-with-ajax/modal/widget_out.php:91
+msgid "Back to login"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_out.php:76
+#: ../plugins/login-with-ajax/divs-only/widget_out.php:76
+#: ../plugins/login-with-ajax/modal/widget_out.php:83
+msgid "Username"
+msgstr ""
+
+#: ../plugins/login-with-ajax/default/widget_out.php:79
+#: ../plugins/login-with-ajax/divs-only/widget_out.php:79
+#: ../plugins/login-with-ajax/modal/widget_out.php:86
+msgid "E-mail"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:44
+msgid ""
+"New features in Login With AJAX (including registration!), check out the "
+"settings and widget pages!"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:46
+msgid "Dismiss"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:92
+msgid "Changes saved."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:139
+msgid "Default Template"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:148
+msgid ""
+"Choose the default theme you'd like to use. This can be overriden in the "
+"widget, shortcode and template tags."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:149
+msgid "Further documentation for this feature coming soon..."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:155
+msgid "Disable refresh upon login?"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:160
+msgid ""
+"If the user logs in and you check the button above, only the login widget "
+"will update itself without refreshing the page. Not a good idea if your site "
+"shows different content to users once logged in, as a refresh would be "
+"needed."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:166
+msgid "Redirection Settings"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:170
+msgid "Global Login Redirect"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:174
+msgid ""
+"If you'd like to send the user to a specific URL after login, enter it here "
+"(e.g. http://wordpress.org/)"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:175
+msgid ""
+"Use %USERNAME% and it will be replaced with the username of person logging "
+"in."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:197
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:249
+msgid ""
+"With WPML enabled you can provide different redirection destinations based "
+"on language too."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:208
+msgid "Global Logout Redirect"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:212
+msgid ""
+"If you'd like to send the user to a specific URL after logout, enter it here "
+"(e.g. http://wordpress.org/)"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:213
+msgid ""
+"Enter %LASTURL% to send the user back to the page they were previously on."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:221
+msgid "Role-Based Custom Login Redirects"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:224
+msgid ""
+"If you would like a specific user role to be redirected to a custom URL upon "
+"login, place it here (blank value will default to the global redirect)"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:274
+msgid "Role-Based Custom Logout Redirects"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:277
+msgid ""
+"If you would like a specific user role to be redirected to a custom URL upon "
+"logout, place it here (blank value will default to the global redirect)"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:300
+msgid "Notification Settings"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:302
+msgid ""
+"If you'd like to override the default Wordpress email users receive once "
+"registered, make sure you check the box below and enter a new email subject "
+"and message."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:303
+msgid ""
+"If this feature doesn't work, please make sure that you don't have another "
+"plugin installed which also manages user registrations (e.g. BuddyPress and "
+"MU)."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:308
+msgid "Override Default Email?"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:316
+msgid "Subject"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:321
+msgid "Your registration at %BLOGNAME%"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:325
+msgid "<code>%USERNAME%</code> will be replaced with a username."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:326
+msgid "<code>%PASSWORD%</code> will be replaced with the user's password."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:327
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:351
+msgid "<code>%BLOGNAME%</code> will be replaced with the name of your blog."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:328
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:352
+msgid "<code>%BLOGURL%</code> will be replaced with the url of your blog."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:338
+msgid ""
+"Thanks for signing up to our blog. \n"
+"\n"
+"You can login with the following credentials by visiting %BLOGURL%\n"
+"\n"
+"Username : %USERNAME%\n"
+"Password : %PASSWORD%\n"
+"\n"
+"We look forward to your next visit!\n"
+"\n"
+"The team at %BLOGNAME%"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-admin.php:360
+msgid "Save Changes"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:8
+msgid "Log In"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:9
+msgid "Hi"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:15
+msgid "Login widget with AJAX capabilities."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:55
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:59
+#, php-format
+msgid "Title (%s)"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:55
+msgid "Logged In"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:59
+msgid "Logged Out"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:63
+msgid "Show profile link?"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:67
+msgid "Recover Password?"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:71
+msgid "AJAX Registration?"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax-widget.php:76
+msgid "Template"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:159
+msgid "Login Successful, redirecting..."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:172
+msgid "Login successful, updating..."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:182
+#: ../plugins/login-with-ajax/login-with-ajax.php:241
+msgid "An undefined error has ocurred"
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:186
+msgid "Please supply your username and password."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:207
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:220
+msgid "Registration has been disabled."
+msgstr ""
+
+#: ../plugins/login-with-ajax/login-with-ajax.php:232
+msgid "We have sent you an email"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_out.php:9
+msgid "Sign in / Join"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_out.php:15
+msgid "Login"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_out.php:17
+msgid "Welcome! Login in to your account"
+msgstr ""
+
+#: ../plugins/login-with-ajax/modal/widget_out.php:60
+msgid "Lost Password"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:24
+#, php-format
+msgid "New user registration on your blog %s:"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:25
+#: ../plugins/login-with-ajax/pluggable.php:39
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:26
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:28
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:40
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: ../plugins/login-with-ajax/pluggable.php:43
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:18
+msgid "Error: Please enter a username."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:20
+msgid ""
+"Error: This username is invalid because it uses illegal characters. Please "
+"enter a valid username."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:23
+msgid "Error:: This username is already registered. Please choose another one."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:28
+msgid "Error: Please type your e-mail address."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:30
+msgid "Error: The email address isn&#8217;t correct."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:33
+msgid "Error: This email is already registered, please choose another one."
+msgstr ""
+
+#: ../plugins/login-with-ajax/registration.php:46
+#, php-format
+msgid "Error: Please contact the <a href=\"mailto:%s\">webmaster</a>."
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../single.php:132
+msgid "Related articles"
+msgstr ""

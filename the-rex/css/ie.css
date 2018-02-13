@@ -1,0 +1,4 @@
+#top-menu>ul>li > .sub-menu, .bk-dropdown-menu, .bk-sub-sub-menu, .bk-mega-menu, .bk-mega-column-menu, .sub-menu, .top-nav .bk-account-info, .bk_small_cart #bk_small_cart_widget {
+    top: -9999999px;
+    transition: opacity 0.3s linear;
+}
