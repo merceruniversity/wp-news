@@ -1,3 +1,4 @@
+<!-- the Rex Child theme. Header file modified to flip Top and Main menus on mobile view. See lines 71-93. 20180214 emh -->
 <?php
     global $bk_option;
     $favicon = array(); $logo = array();
@@ -67,29 +68,29 @@
                     <a class="mobile-menu-close" href="#" title="Close"><i class="fa fa-long-arrow-left"></i></a>
                 </div>
                 <?php if ( isset($bk_option ['bk-header-top-switch']) && ($bk_option ['bk-header-top-switch'] == 1) ){ ?>
-                     <div class="top-menu">
-                        <h3 class="menu-location-title">
-                            <?php esc_html_e('Top Menu', 'the-rex');?>
-                        </h3>
-                    <?php
-                    wp_nav_menu( array( 
-                        'theme_location' => 'menu-top',
-                        'depth' => '3',
-                        'container_id' => 'mobile-top-menu' ) );
-                    ?>
+                    <div class="main-menu">
+                   <!-- <h3 class="menu-location-title">
+                        <?php esc_html_e('Mercer News Menu', 'the-rex');?>
+                    </h3> -->
+                        <?php
+                        wp_nav_menu( array( 
+                            'theme_location' => 'main-menu',
+                            'depth' => '3',
+                            'container_id' => 'mobile-menu' ) );
+                        ?>
                     </div>
                 <?php }?>
-                <div class="main-menu">
-                    <h3 class="menu-location-title">
-                        <?php esc_html_e('Main Menu', 'the-rex');?>
-                    </h3>
-                    <?php
-                    wp_nav_menu( array( 
-                        'theme_location' => 'main-menu',
-                        'depth' => '3',
-                        'container_id' => 'mobile-menu' ) );
-                    ?>
-                </div>
+                    <div class="top-menu">
+                        <h3 class="menu-location-title">
+                            <?php esc_html_e('University Links', 'the-rex');?>
+                        </h3>
+                        <?php
+                        wp_nav_menu( array( 
+                            'theme_location' => 'menu-top',
+                            'depth' => '3',
+                            'container_id' => 'mobile-top-menu' ) );
+                        ?>
+                    </div>
             </div>
         </div>
         <div id="page-inner-wrap">
